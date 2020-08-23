@@ -7,6 +7,7 @@ his bug, but couldn't figure it out.
 
 
 ending to the story!
+one or two lines.
 =======
 Once upon a time there was a programmer. But he didn't ever use git! After all,
 he was a good programmer and didn't need to. 
